@@ -1,0 +1,77 @@
+.games-cards {
+  width: 100%;
+  height: auto;
+  background-color: #f2f3f5;
+  padding-left: 9%;
+  padding-right: 9%;
+  padding-bottom: 40px;
+  margin: auto;
+  margin-bottom: 40px;
+}
+
+.games-cards__h3 {
+  padding-top: 40px;
+  margin-bottom: 20px;
+}
+.games-cards__top {
+  width: 100%;
+  display: flex;
+}
+.games-cards__bottom {
+  width: 100%;
+  display: flex;
+  margin-top: 40px;
+}
+
+.games-card-basic {
+  width: 589px;
+  height: 312px;
+  background-color: #fff;
+  border-top: 15px solid #c94eef;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.29);
+  display: flex;
+}
+
+.games-card-right {
+  margin-left: 20px;
+}
+
+.games-card-basic__figure {
+  margin-top: 31px;
+  margin-left: 26px;
+}
+
+.games-card-basic__figure__img {
+  width: 195px;
+  height: 149px;
+}
+
+.games-card-basic__figure__figcaption {
+  font-size: 13px;
+  color: #363636;
+}
+
+.games-card-basic__content {
+  margin-top: 31px;
+  margin-left: 14px;
+  margin-right: 21px;
+}
+
+.games-card-basic__content__h4 {
+  font-family: Gadugi;
+  font-size: 18px;
+  color: #363636;
+  margin-bottom: 5px;
+}
+
+.games-card-basic__content__p {
+  margin-bottom: 20px;
+}
+
+.games-card-basic__content__button {
+  width: 69px;
+  height: 18px;
+  padding: 6px 12px;
+  background-color: #c3ff53;
+  margin-top: 20px;
+}

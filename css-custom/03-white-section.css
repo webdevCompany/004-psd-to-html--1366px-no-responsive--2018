@@ -1,0 +1,74 @@
+.white-section {
+  width: 82%;
+  margin: auto;
+  height: 681px;
+  background-color: #fff;
+  padding-top: 155px;
+}
+
+.white-section__h2 {
+  font-family: Gadugi;
+  font-size: 72px;
+  color: #363636;
+}
+
+.white-section__h2__letter-l {
+  font-size: 80px;
+  color: #97bbe3;
+}
+
+.white-section__h2__ipsum {
+  font-family: Gadugi;
+  font-size: 48px;
+  color: #d612e8;
+}
+
+.white-section__paragraph1 {
+  font-family: Gadugi;
+  font-size: 14px;
+  margin-top: -10px;
+  margin-left: 6px;
+  font-weight: bold;
+  line-height: 1.6;
+}
+
+.white-section__article {
+  width: 948px;
+  height: 402px;
+}
+
+.white-section__article__h3 {
+  font-family: Gadugi;
+  font-size: 24px;
+  color: #080808;
+  margin-top: 53px;
+}
+
+.white-section__article__content__left__p {
+  line-height: 1.6;
+  font-family: Gadugi;
+  font-size: 14px;
+}
+
+.white-section__article__content {
+  width: 100%;
+  display: flex;
+}
+
+.white-section__article__content__left {
+  width: 387px;
+  height: 402px;
+}
+
+.white-section__article__content__right {
+  width: 543px;
+  height: 402px;
+  padding-left: 34px;
+  margin-top: -20px;
+}
+
+.white-section__article__content__right__p {
+  font-family: Gadugi;
+  font-size: 11px;
+  color: #363636;
+}

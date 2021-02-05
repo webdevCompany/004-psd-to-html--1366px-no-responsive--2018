@@ -1,0 +1,33 @@
+.sidebar {
+  width: 174px;
+  height: 681px;
+  position: absolute;
+  top: 667px;
+  right: 123px;
+}
+
+.sidebar__firefox {
+  display: inline;
+  margin-top: 15px;
+}
+
+.sidebar__ul {
+  font-family: Gadugi;
+  font-size: 14px;
+  color: #0d6af1;
+  margin-top: 40px;
+}
+
+.sidebar__ul__li {
+  height: 48px;
+  margin-bottom: 35px;
+  border-bottom: 1px dotted #0d6af1;
+}
+
+.sidebar__button {
+  margin-top: 19px;
+  width: 43px;
+  height: 12px;
+  background-color: #00bff3;
+  padding: 3px 4px;
+}
